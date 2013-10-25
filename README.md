@@ -6,7 +6,7 @@ NOTE: Do NOT attempt a brute force approach. It will not work. The following con
 0 <= X <= 2147483647 
 1 <= N <= 100
 
-# Input sample:
+### Input sample:
 
 You should first read an integer N, the number of test cases. The next N lines will contain N values of X.
 
@@ -17,7 +17,7 @@ You should first read an integer N, the number of test cases. The next N lines w
 0
 1
 
-# Output sample:
+### Output sample:
 
 e.g.
 
